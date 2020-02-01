@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "id": 21,
+      "name": "dsds",
+      "location": "sdsds"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
